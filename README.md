@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ernane Ferreira <img align="center" style="margin:0; position:relative; left:-20px; padding-bottom:10px" alt="Ernane-bot" height="60" width="80" src="images/ernane-bot.gif">
+## Hi! my name is Ernane Ferreira. <img align="center" style="margin:0; position:relative; left:-20px; padding-bottom:10px" alt="Ernane-bot" height="60" width="80" src="images/ernane-bot.gif">
 <hr/><br/>
 
 <div style="text-align:center">
@@ -20,7 +20,7 @@
 </div><br/>
   <hr/>
   <div style="text-align:center">
-  <p style="color:white">Entre em contato comigo!<img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" style="max-width:100%;margin-left:10px" width="20px"/></p>
+  <p style="color:white">Contact me!<img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" style="max-width:100%;margin-left:10px" width="20px"/></p>
   <a href = "mailto: ernane.junior25@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="www.linkedin.com/in/ernane" title="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/ernane.jx/" title="Instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
