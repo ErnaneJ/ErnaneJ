@@ -1,6 +1,12 @@
-## Hi! my name is Ernane Ferreira. <img style="margin: 0px 0 -13px -15px;" alt="Ernane-bot" height="60" width="80" src="https://i.ibb.co/tDb1FP8/b583195d957a3779c216f0cd684ec6-unscreen.gif">
-<hr/><br/>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ernane Ferreira</h1>
+<h3 align="center">A great dreamer and technology enthusiast.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ernanej" alt="ernanej" /> </p>
 
+- 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
+
+- 👨‍💻 All my projects are available [here.](https://github.com/ErnaneJ?tab=repositories)
+
+<hr>
 <div align="center">
   <a href="https://github.com/ErnaneJ">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErnaneJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
