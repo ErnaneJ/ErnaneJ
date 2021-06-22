@@ -31,7 +31,7 @@
 	A great dreamer and technology enthusiast.
 </h3>
 &nbsp;
-<h4 align="center"> 
+<h4> 
 
   - 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
 
