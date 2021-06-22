@@ -18,7 +18,7 @@
   </a>
   
   <a href="mailto: ernane.junior25@gmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&logoColor=fff&link=https://mailto: ernane.junior25@gmail.com/"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=fff"/>
   </a>
 
   <a href="https://codepen.io/ernanej" alt="Codepen">
@@ -39,8 +39,6 @@
 
 </h4>
 <br>
-
-### 🛠 Technologies
 &nbsp;
 <p align="left">
   <!-- javascript -->
