@@ -5,20 +5,20 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ernane Ferreira</h1></h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/ernanej/" alt="Instagram">
+  <a href="https://www.instagram.com/ernane.jx/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-AA0174?style=flat-square&labelColor=AA0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ernane.jx/"/>
   </a>
   
-  <a href="https://www.instagram.com/ernanej/" alt="Gitlab">
-    <img src="https://img.shields.io/badge/Gitlab-D2691E?style=flat-square&labelColor=B9288&logo=gitlab&logoColor=D2691E&link=https://www.instagram.com/ernane.jx/"/>
+  <a href="https://gitlab.com/ernane.ferreira.100" alt="Gitlab">
+    <img src="https://img.shields.io/badge/Gitlab-D2691E?style=flat-square&labelColor=B9288&logo=gitlab&logoColor=D2691E&link=https://gitlab.com/ernane.ferreira.100"/>
   </a>
  
-  <a href="https://gitlab.com/ernane.ferreira.100">
-    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gitlab.com/ernane.ferreira.100">
+  <a href="https://www.linkedin.com/in/ernane/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernane/">
   </a>
   
   <a href="mailto: ernane.junior25@gmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=fff&link=https://mailto: ernane.junior25@gmail.com/"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&logoColor=fff&link=https://mailto: ernane.junior25@gmail.com/"/>
   </a>
 
   <a href="https://codepen.io/ernanej" alt="Codepen">
