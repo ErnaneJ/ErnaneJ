@@ -59,8 +59,12 @@
   <img align="center" alt="Ernane-ruby" title="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <!-- svelte -->
  <img align="center" alt="Ernane-svelte" title="Svelte" height="34" width="40" src="https://i.ibb.co/Hhn2nW1/images-removebg-preview.png">
+  <!-- React -->
+  <img align="center" alt="Ernane-react" title="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <!-- nodejs -->
   <img align="center" alt="Ernane-nodejs" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <!-- Python -->
+<img align="center" alt="Ernane-python" title="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- loading... -->
   <img align="center" title="Aprendendo..." alt="Aprendendo..." height="30" width="40" src="images/ernane-loading.gif">
 </p>
