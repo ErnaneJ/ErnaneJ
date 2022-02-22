@@ -82,11 +82,10 @@
   </row>
 </table>
 </p>
- &nbsp;
-<div align="center">
-    <!-- Snake -->
 
-![Snake animation](https://github.com/ErnaneJ/ErnaneJ/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
+<!-- <div align="center"> -->
+  <!-- Snake -->
+  <!-- ![Snake animation](https://github.com/ErnaneJ/ErnaneJ/blob/output/github-contribution-grid-snake.svg) -->
+<!-- </div> -->
+
  
