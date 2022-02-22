@@ -17,12 +17,8 @@
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernane/">
   </a>
   
-  <a href="mailto: ernane.junior25@gmail.com" alt="Email">
+  <a href="mailto:ernane.junior25@gmail.com" alt="Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=fff"/>
-  </a>
-
-  <a href="https://codepen.io/ernanej" alt="Codepen">
-    <img src="https://img.shields.io/badge/Codepen-1E1F26?style=flat-square&labelColor=1E1F26&logo=codepen&logoColor=fff&link=https://codepen.io/ernanej"/>
   </a>
 </div>
 
@@ -32,11 +28,15 @@
 </h3>
 &nbsp;
 <h4> 
-
-  - 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
-
-  - 👨‍💻 All my projects are available [here.](https://github.com/ErnaneJ?tab=repositories)
-
+	
+  - 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/);
+	
+  - 👨‍💻 Some of my projects are available [here](https://github.com/ErnaneJ?tab=repositories);
+	
+  - 📚 This is my simple [blog](https://blog.ernane.dev/);
+	
+  - ✨ And here's more information [about me](https://www.ernane.dev/#sobre).
+	
 </h4>
 <br>
 &nbsp;
@@ -66,7 +66,7 @@
   <!-- Python -->
 <img align="center" alt="Ernane-python" title="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- loading... -->
-  <img align="center" title="Aprendendo..." alt="Aprendendo..." height="30" width="40" src="images/ernane-loading.gif">
+  <img align="center" title="Learning.." alt="Learning.." height="30" width="40" src="images/ernane-loading.gif">
 </p>
 &nbsp;
 <p align="center">
