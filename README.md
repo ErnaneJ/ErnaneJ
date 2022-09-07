@@ -29,7 +29,9 @@
 &nbsp;
 <h4> 
 	
-  - 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/);
+  - 💼 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/);
+  
+  - 🔭 I’m currently a research fellow in software development at (LAIS)[https://lais.huol.ufrn.br/];
 	
   - 👨‍💻 Some of my projects are available [here](https://github.com/ErnaneJ?tab=repositories);
 	
