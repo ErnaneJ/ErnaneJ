@@ -9,6 +9,6 @@ Developer at [Real Seguro Viagem](https://www.seguroviagem.srv.br/).
 [![Linkedin Badge](https://img.shields.io/badge/-Ernane%20Ferreira-262671?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ernane/)
 [![GMail Badge](https://img.shields.io/badge/ernane.junior25@gmail.com-262671?style=flat-square&labelColor=262671&logo=gmail&logoColor=fff)](mailto:ernane.junior25@gmail.com)
 
-A great technology lover and software development enthusiast. 
+A big dreamer, technology lover and software development enthusiast.
 
 Graduated as an electronic technician, he is currently a student of the Science and Technology course with an emphasis on computer technology.
