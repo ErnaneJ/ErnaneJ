@@ -1,4 +1,4 @@
-<img align="right" src="./images/user.png" width="300"/>
+<img align="right" src="./images/user.png" width="250"/>
 
 # Hi 👋, I'm Ernane Ferreira
 
