@@ -1,3 +1,5 @@
+<img align="right" src="./images/user.png" width="300"/>
+
 # Hi 👋, I'm Ernane Ferreira
 
 Developer at [Real Seguro Viagem](https://www.seguroviagem.srv.br/).
