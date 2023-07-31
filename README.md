@@ -10,4 +10,4 @@ Developer at [Real Seguro Viagem](https://www.seguroviagem.srv.br/).
 
 A big dreamer, technology lover and software development enthusiast.
 
-Graduated as an electronic technician, he is currently a student of the Science and Technology course with an emphasis on computer technology.
+Graduated as an electronics technician (IMD/UFRN), Bachelor of Science and Technology (ECT/UFRN) and student of Computer Engineering (DCA/UFRN).
