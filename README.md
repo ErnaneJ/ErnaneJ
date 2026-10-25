@@ -4,11 +4,15 @@
 </picture>
 
 <p align="left">
-  Engineer, software developer and AI researcher from Natal, Brazil. I lead the development team at <a href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a> and I am an M.Sc. student in Electrical and Computer Engineering at <a href="https://www.ufrn.br/">UFRN</a>.
+  Engineer, software developer and AI researcher from Natal, Brazil. M.Sc. student in Electrical and Computer Engineering at <a href="https://www.ufrn.br/">UFRN</a>.
 </p>
 
 <p align="left">
-  At the <a href="https://github.com/model2ai">Model2AI</a> lab (DCA/UFRN) I work with AI in an R&amp;D project with <a href="https://petrobras.com.br">Petrobras</a>.
+  I lead the development team at <a href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a>.
+</p>
+
+<p align="left">
+  At the <a href="https://github.com/model2ai">Model2AI</a> lab (DCA/UFRN) I work in an R&amp;D project with <a href="https://petrobras.com.br">Petrobras</a>.
 </p>
 
 <p align="left">
